@@ -60,3 +60,4 @@ teachcompute/validation/cython/td_mul_cython.cpp
 teachcompute/validation/cython/vector_function_cy.cpp
 demo_mlifetable.tsv.gz
 mortality.txt
+WORK/bench*
